@@ -1,4 +1,4 @@
-package com.plcoding.calculator
+package com.example.calculator
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -25,6 +25,9 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.calculator.CalculatorAction
+import com.example.calculator.CalculatorButton
+import com.example.calculator.CalculatorOperation
 import com.plcoding.calculator.ui.theme.CalculatorPrepTheme
 
 @ExperimentalComposeUiApi

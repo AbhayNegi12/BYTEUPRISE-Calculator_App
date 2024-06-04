@@ -1,4 +1,4 @@
-package com.plcoding.calculator
+package com.example.calculator
 
 sealed class CalculatorOperation(val symbol: String) {
     object Add: CalculatorOperation("+")

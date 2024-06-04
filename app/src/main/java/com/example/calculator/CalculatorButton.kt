@@ -1,4 +1,4 @@
-package com.plcoding.calculator
+package com.example.calculator
 
 import android.view.MotionEvent
 import androidx.compose.foundation.background
